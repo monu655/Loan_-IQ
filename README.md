@@ -6,7 +6,7 @@ Built with clean UI and practical finance tools, this project focuses on real-wo
 
 ## ▶️ Live Demo
 
-🔗 https://monu655.github.io/Loan_-IQ/
+🔗 https://monu655.github.io/Loan_IQ/
 
 ## ✨ Key Features
 
